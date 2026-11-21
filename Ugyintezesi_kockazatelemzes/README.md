@@ -69,11 +69,11 @@ AI-Based Analysis and Risk Classification of Administrative Cases
 
 		Beerkezes_modja						Electronic or paper submission
 
-		Hianypotlasok_szama					Number of requests for missing information
+		Hianypotlasok_szama						Number of requests for missing information
 
-		Ugyintezesi_napok					Number of administrative processing days
+		Ugyintezesi_napok						Number of administrative processing days
 
-		Hataridoig_hatralevo_napok			Days remaining until the deadline
+		Hataridoig_hatralevo_napok					Days remaining until the deadline
 
 		Ugyfelmegkeresesek_szama			Number of customer enquiries
 
