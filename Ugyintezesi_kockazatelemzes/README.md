@@ -269,7 +269,7 @@ AI-Based Analysis and Risk Classification of Administrative Cases
 
 	The model generated the following risk distribution:
 
-		Risk category			Number of cases		Percentage
+		Risk category			Number of cases			Percentage
 
 		LOW					18			 90%
 
