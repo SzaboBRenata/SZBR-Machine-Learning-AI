@@ -271,13 +271,13 @@ AI-Based Analysis and Risk Classification of Administrative Cases
 
 		Risk category		Number of cases		Percentage
 
-		LOW								18			 90%
+		LOW					18			 90%
 
-		MEDIUM							 0			  0%
+		MEDIUM					 0			  0%
 
-		HIGH							 2			 10%
+		HIGH					 2			 10%
 
-		Total							20			100%
+		Total					20			100%
 
 	High-risk cases
 
