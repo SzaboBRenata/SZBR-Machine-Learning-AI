@@ -75,13 +75,13 @@ AI-Based Analysis and Risk Classification of Administrative Cases
 
 		Hataridoig_hatralevo_napok					Days remaining until the deadline
 
-		Ugyfelmegkeresesek_szama			Number of customer enquiries
+		Ugyfelmegkeresesek_szama					Number of customer enquiries
 
-		Dokumentum_hianyos					Whether the documentation is incomplete
+		Dokumentum_hianyos						Whether the documentation is incomplete
 
-		Korabbi_hasonlo_ugy_kesett			Whether a similar previous case was delayed
+		Korabbi_hasonlo_ugy_kesett					Whether a similar previous case was delayed
 
-		Hatarido_tullepes					Whether the administrative deadline was exceeded
+		Hatarido_tullepes						Whether the administrative deadline was exceeded
 		
 		Five administrative case categories were included:
 
