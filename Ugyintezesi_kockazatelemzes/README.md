@@ -239,7 +239,7 @@ AI-Based Analysis and Risk Classification of Administrative Cases
 
 			Estimated probability		Risk category
 
-			Below 40%					LOW
+			Below 40%				LOW
 
 			40% to below 70%			MEDIUM
 
