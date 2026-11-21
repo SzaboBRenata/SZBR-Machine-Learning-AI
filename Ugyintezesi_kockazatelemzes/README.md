@@ -63,7 +63,7 @@ AI-Based Analysis and Risk Classification of Administrative Cases
 
 		Variable 							Description
 
-		Ugy_azonosito						Unique case identifier
+		Ugy_azonosito							Unique case identifier
 
 		Ugytipus							Type of administrative case
 
