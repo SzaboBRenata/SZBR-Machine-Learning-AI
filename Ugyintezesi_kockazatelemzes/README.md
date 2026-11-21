@@ -283,11 +283,11 @@ AI-Based Analysis and Risk Classification of Administrative Cases
 
 	Two cases received a HIGH risk classification.
 
-		Case ID 	Case type			Missing-document requests	Processing days		Estimated delay probability
+		Case ID 	Case type	Missing-document requests	Processing days		Estimated delay probability
 
-		UGY0105		Market surveillance						 8				41				96.85%
+		UGY0105	Market surveillance				 8				41				96.85%
 
-		UGY0108		Advertising							12				16				98.14%
+		UGY0108	Advertising					12				16				98.14%
 
 	Both cases were also marked as having incomplete documentation.
 
